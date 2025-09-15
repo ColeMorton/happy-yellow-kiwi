@@ -1,0 +1,51 @@
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+# Dependencies
+node_modules/
+
+# Package managers
+package-lock.json
+*.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Claude configuration
+.claude/
+
+# Documentation (for Snack compatibility)
+*.md
+!README.md
+
+# Build files
+*.log
