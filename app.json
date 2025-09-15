@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Happy Yellow Kiwi",
+    "slug": "happy-yellow-kiwi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trilogycare.happyyellowkiwi"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.trilogycare.happyyellowkiwi"
+    },
+    "platforms": ["ios", "android"]
+  }
+}
